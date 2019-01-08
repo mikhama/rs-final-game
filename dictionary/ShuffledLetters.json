@@ -1,0 +1,282 @@
+[
+  {
+    "words": ["dog", "god"],
+    "difficulty": 1
+  },
+  {
+    "words": ["cat"],
+    "difficulty": 1
+  },
+  {
+    "words": ["duck"],
+    "difficulty": 1
+  },
+  {
+    "words": ["bird"],
+    "difficulty": 1
+  },
+  {
+    "words": ["bear"],
+    "difficulty": 1
+  },
+  {
+    "words": ["buffalo"],
+    "difficulty": 2
+  },
+  {
+    "words": ["kitten"],
+    "difficulty": 2
+  },
+  {
+    "words": ["cow"],
+    "difficulty": 1
+  },
+  {
+    "words": ["deer"],
+    "difficulty": 1
+  },
+  {
+    "words": ["puppy"],
+    "difficulty": 2
+  },
+  {
+    "words": ["fish"],
+    "difficulty": 1
+  },
+  {
+    "words": ["fox"],
+    "difficulty": 1
+  },
+  {
+    "words": ["frog"],
+    "difficulty": 1
+  },
+  {
+    "words": ["goat"],
+    "difficulty": 1
+  },
+  {
+    "words": ["goose"],
+    "difficulty": 2
+  },
+  {
+    "words": ["horse"],
+    "difficulty": 1
+  },
+  {
+    "words": ["mouse"],
+    "difficulty": 1
+  },
+  {
+    "words": ["pig"],
+    "difficulty": 1
+  },
+  {
+    "words": ["rabbit"],
+    "difficulty": 2
+  },
+  {
+    "words": ["rat"],
+    "difficulty": 1
+  },
+  {
+    "words": ["snake"],
+    "difficulty": 2
+  },
+  {
+    "words": ["squirrel"],
+    "difficulty": 2
+  },
+  {
+    "words": ["wolf"],
+    "difficulty": 1
+  },
+  {
+    "words": ["turkey"],
+    "difficulty": 1
+  },
+  {
+    "words": ["people"],
+    "difficulty": 1
+  },
+  {
+    "words": ["family"],
+    "difficulty": 1
+  },
+  {
+    "words": ["baby"],
+    "difficulty": 1
+  },
+  {
+    "words": ["boy"],
+    "difficulty": 1
+  },
+  {
+    "words": ["girl"],
+    "difficulty": 1
+  },
+  {
+    "words": ["man"],
+    "difficulty": 1
+  },
+  {
+    "words": ["woman"],
+    "difficulty": 1
+  },
+  {
+    "words": ["adult"],
+    "difficulty": 2
+  },
+  {
+    "words": ["airplane"],
+    "difficulty": 2
+  },
+  {
+    "words": ["bicycle"],
+    "difficulty": 2
+  },
+  {
+    "words": ["subway"],
+    "difficulty": 2
+  },
+  {
+    "words": ["walking"],
+    "difficulty": 2
+  },
+  {
+    "words": ["bakery"],
+    "difficulty": 2
+  },
+  {
+    "words": ["cathedral"],
+    "difficulty": 3
+  },
+  {
+    "words": ["police"],
+    "difficulty": 2
+  },
+  {
+    "words": ["theater"],
+    "difficulty": 3
+  },
+  {
+    "words": ["telephone"],
+    "difficulty": 3
+  },
+  {
+    "words": ["water"],
+    "difficulty": 2
+  },
+  {
+    "words": ["driveway"],
+    "difficulty": 3
+  },
+  {
+    "words": ["backyard"],
+    "difficulty": 3
+  },
+  {
+    "words": ["garage"],
+    "difficulty": 2
+  },
+  {
+    "words": ["window"],
+    "difficulty": 2
+  },
+  {
+    "words": ["fence"],
+    "difficulty": 2
+  },
+  {
+    "words": ["building"],
+    "difficulty": 3
+  },
+  {
+    "words": ["elevator"],
+    "difficulty": 3
+  },
+  {
+    "words": ["entrance"],
+    "difficulty": 3
+  },
+  {
+    "words": ["mailboxes"],
+    "difficulty": 3
+  },
+  {
+    "words": ["clothes"],
+    "difficulty": 3
+  },
+  {
+    "words": ["pants"],
+    "difficulty": 2
+  },
+  {
+    "words": ["pajamas"],
+    "difficulty": 3
+  },
+  {
+    "words": ["necktie"],
+    "difficulty": 3
+  },
+  {
+    "words": ["panties"],
+    "difficulty": 3
+  },
+  {
+    "words": ["underwear"],
+    "difficulty": 3
+  },
+  {
+    "words": ["dress"],
+    "difficulty": 2
+  },
+  {
+    "words": ["chair"],
+    "difficulty": 2
+  },
+  {
+    "words": ["cabinet"],
+    "difficulty": 2
+  },
+  {
+    "words": ["buffet"],
+    "difficulty": 2
+  },
+  {
+    "words": ["flower"],
+    "difficulty": 2
+  },
+  {
+    "words": ["bathtub"],
+    "difficulty": 3
+  },
+  {
+    "words": ["shower"],
+    "difficulty": 3
+  },
+  {
+    "words": ["curtain"],
+    "difficulty": 3
+  },
+  {
+    "words": ["medicine"],
+    "difficulty": 3
+  },
+  {
+    "words": ["bathroom"],
+    "difficulty": 3
+  },
+  {
+    "words": ["faucet"],
+    "difficulty": 3
+  },
+  {
+    "words": ["baseball"],
+    "difficulty": 3
+  },
+  {
+    "words": ["sailing"],
+    "difficulty": 3
+  }
+]

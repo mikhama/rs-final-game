@@ -1,0 +1,1027 @@
+[
+  {
+    "eng": "park",
+    "rus": ["парк"],
+    "difficulty": 1
+  },
+  {
+    "eng": "deer",
+    "rus": ["олень"],
+    "difficulty": 1
+  },
+  {
+    "eng": "wolf",
+    "rus": ["волк"],
+    "difficulty": 1
+  },
+  {
+    "eng": "tiger",
+    "rus": ["тигр"],
+    "difficulty": 1
+  },
+  {
+    "eng": "rat",
+    "rus": ["крыса"],
+    "difficulty": 1
+  },
+  {
+    "eng": "duck",
+    "rus": ["утка"],
+    "difficulty": 1
+  },
+  {
+    "eng": "river",
+    "rus": ["река"],
+    "difficulty": 1
+  },
+  {
+    "eng": "bridge",
+    "rus": ["мост"],
+    "difficulty": 1
+  },
+  {
+    "eng": "fish",
+    "rus": ["рыба"],
+    "difficulty": 1
+  },
+  {
+    "eng": "bow",
+    "rus": ["лук (для стрельбы)"],
+    "difficulty": 1
+  },
+  {
+    "eng": "horse",
+    "rus": ["лошадь", "конь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "raccoon",
+    "rus": ["енот"],
+    "difficulty": 2
+  },
+  {
+    "eng": "mermaid",
+    "rus": ["русалка"],
+    "difficulty": 3
+  },
+  {
+    "eng": "ship",
+    "rus": ["корабль"],
+    "difficulty": 1
+  },
+  {
+    "eng": "spell",
+    "rus": ["произносить слово по буквам"],
+    "difficulty": 3
+  },
+  {
+    "eng": "dwarf",
+    "rus": ["гном"],
+    "difficulty": 2
+  },
+  {
+    "eng": "please",
+    "rus": ["пожалуйста"],
+    "difficulty": 2
+  },
+  {
+    "eng": "my",
+    "rus": ["мое", "мой"],
+    "difficulty": 1
+  },
+  {
+    "eng": "your",
+    "rus": ["твой, твоя"],
+    "difficulty": 1
+  },
+  {
+    "eng": "his",
+    "rus": ["его"],
+    "difficulty": 1
+  },
+  {
+    "eng": "her",
+    "rus": ["ее"],
+    "difficulty": 1
+  },
+  {
+    "eng": "our",
+    "rus": ["наш, наши"],
+    "difficulty": 1
+  },
+  {
+    "eng": "their",
+    "rus": ["их"],
+    "difficulty": 1
+  },
+  {
+    "eng": "who",
+    "rus": ["кто"],
+    "difficulty": 1
+  },
+  {
+    "eng": "what",
+    "rus": ["что", "какой", "какая", "какое", "какие"],
+    "difficulty": 1
+  },
+  {
+    "eng": "animals",
+    "rus": ["животные"],
+    "difficulty": 2
+  },
+  {
+    "eng": "house",
+    "rus": ["дом"],
+    "difficulty": 1
+  },
+  {
+    "eng": "five",
+    "rus": ["пять"],
+    "difficulty": 1
+  },
+  {
+    "eng": "well",
+    "rus": ["хорошо"],
+    "difficulty": 2
+  },
+  {
+    "eng": "name",
+    "rus": ["имя"],
+    "difficulty": 1
+  },
+  {
+    "eng": "lake",
+    "rus": ["озеро"],
+    "difficulty": 1
+  },
+  {
+    "eng": "here",
+    "rus": ["здесь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "children",
+    "rus": ["дети"],
+    "difficulty": 2
+  },
+  {
+    "eng": "one",
+    "rus": ["один"],
+    "difficulty": 1
+  },
+  {
+    "eng": "two",
+    "rus": ["два"],
+    "difficulty": 1
+  },
+  {
+    "eng": "three",
+    "rus": ["три"],
+    "difficulty": 1
+  },
+  {
+    "eng": "four",
+    "rus": ["четыре"],
+    "difficulty": 1
+  },
+  {
+    "eng": "six",
+    "rus": ["шесть"],
+    "difficulty": 1
+  },
+  {
+    "eng": "seven",
+    "rus": ["семь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "eight",
+    "rus": ["восемь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "nine",
+    "rus": ["девять"],
+    "difficulty": 1
+  },
+  {
+    "eng": "ten",
+    "rus": ["десять"],
+    "difficulty": 1
+  },
+  {
+    "eng": "this",
+    "rus": ["это"],
+    "difficulty": 1
+  },
+  {
+    "eng": "its",
+    "rus": ["ее", "его"],
+    "difficulty": 1
+  },
+  {
+    "eng": "hare",
+    "rus": ["заяц"],
+    "difficulty": 1
+  },
+  {
+    "eng": "favourite",
+    "rus": ["любимый", "любимая", "любимые"],
+    "difficulty": 3
+  },
+  {
+    "eng": "count",
+    "rus": ["считать", "считаться"],
+    "difficulty": 2
+  },
+  {
+    "eng": "street",
+    "rus": ["улица"],
+    "difficulty": 2
+  },
+  {
+    "eng": "pig",
+    "rus": ["свинья"],
+    "difficulty": 1
+  },
+  {
+    "eng": "bear",
+    "rus": ["медведь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "pet",
+    "rus": ["домашнее животное", "питомец"],
+    "difficulty": 1
+  },
+  {
+    "eng": "to be afraid of",
+    "rus": ["бояться"],
+    "difficulty": 3
+  },
+  {
+    "eng": "chips",
+    "rus": ["чипсы"],
+    "difficulty": 1
+  },
+  {
+    "eng": "tag",
+    "rus": ["догонялки"],
+    "difficulty": 2
+  },
+  {
+    "eng": "sorry",
+    "rus": ["извините"],
+    "difficulty": 1
+  },
+  {
+    "eng": "boys",
+    "rus": ["мальчики"],
+    "difficulty": 1
+  },
+  {
+    "eng": "wolves",
+    "rus": ["волки"],
+    "difficulty": 1
+  },
+  {
+    "eng": "hopscotch",
+    "rus": ["классики"],
+    "difficulty": 3
+  },
+  {
+    "eng": "computer games",
+    "rus": ["компьютерные игры"],
+    "difficulty": 2
+  },
+  {
+    "eng": "toys",
+    "rus": ["игрушки"],
+    "difficulty": 1
+  },
+  {
+    "eng": "hide-and-seek",
+    "rus": ["прятки"],
+    "difficulty": 3
+  },
+  {
+    "eng": "sports",
+    "rus": ["спортивные игры"],
+    "difficulty": 3
+  },
+  {
+    "eng": "fox",
+    "rus": ["лиса"],
+    "difficulty": 1
+  },
+  {
+    "eng": "bingo",
+    "rus": ["бинго"],
+    "difficulty": 1
+  },
+  {
+    "eng": "dog",
+    "rus": ["собака", "пес"],
+    "difficulty": 1
+  },
+  {
+    "eng": "cat",
+    "rus": ["кошка", "кот"],
+    "difficulty": 1
+  },
+  {
+    "eng": "block",
+    "rus": ["блок", "кубик"],
+    "difficulty": 2
+  },
+  {
+    "eng": "car",
+    "rus": ["автомобиль", "машина"],
+    "difficulty": 2
+  },
+  {
+    "eng": "street",
+    "rus": ["улица"],
+    "difficulty": 1
+  },
+  {
+    "eng": "hand",
+    "rus": ["кисть руки", "рука (кисть)"],
+    "difficulty": 2
+  },
+  {
+    "eng": "foot",
+    "rus": ["ступня"],
+    "difficulty": 2
+  },
+  {
+    "eng": "apple",
+    "rus": ["яблоко"],
+    "difficulty": 2
+  },
+  {
+    "eng": "eye",
+    "rus": ["глаз"],
+    "difficulty": 1
+  },
+  {
+    "eng": "head",
+    "rus": ["голова"],
+    "difficulty": 1
+  },
+  {
+    "eng": "arm",
+    "rus": ["рука (от кисти до плеча)"],
+    "difficulty": 2
+  },
+  {
+    "eng": "hair",
+    "rus": ["волосы"],
+    "difficulty": 1
+  },
+  {
+    "eng": "face",
+    "rus": ["лицо"],
+    "difficulty": 1
+  },
+  {
+    "eng": "people",
+    "rus": ["люди"],
+    "difficulty": 2
+  },
+  {
+    "eng": "love",
+    "rus": ["любовь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "anger",
+    "rus": ["злость"],
+    "difficulty": 3
+  },
+  {
+    "eng": "ceiling",
+    "rus": ["потолок"],
+    "difficulty": 3
+  },
+  {
+    "eng": "wall",
+    "rus": ["стена"],
+    "difficulty": 2
+  },
+  {
+    "eng": "window",
+    "rus": ["окно"],
+    "difficulty": 2
+  },
+  {
+    "eng": "heart",
+    "rus": ["сердце"],
+    "difficulty": 2
+  },
+  {
+    "eng": "branch",
+    "rus": ["ветвь"],
+    "difficulty": 2
+  },
+  {
+    "eng": "break",
+    "rus": ["перерыв", "перемена (школьная)", "перелом"],
+    "difficulty": 2
+  },
+  {
+    "eng": "kitten",
+    "rus": ["котенок"],
+    "difficulty": 2
+  },
+  {
+    "eng": "smile",
+    "rus": ["улыбка"],
+    "difficulty": 2
+  },
+  {
+    "eng": "building",
+    "rus": ["здание"],
+    "difficulty": 3
+  },
+  {
+    "eng": "wood",
+    "rus": ["дерево"],
+    "difficulty": 1
+  },
+  {
+    "eng": "saw",
+    "rus": ["пила"],
+    "difficulty": 1
+  },
+  {
+    "eng": "glue",
+    "rus": ["клей"],
+    "difficulty": 1
+  },
+  {
+    "eng": "table",
+    "rus": ["стол"],
+    "difficulty": 1
+  },
+  {
+    "eng": "animal",
+    "rus": ["животное"],
+    "difficulty": 2
+  },
+  {
+    "eng": "advice",
+    "rus": ["совет"],
+    "difficulty": 2
+  },
+  {
+    "eng": "age",
+    "rus": ["возраст"],
+    "difficulty": 1
+  },
+  {
+    "eng": "air",
+    "rus": ["воздух"],
+    "difficulty": 1
+  },
+  {
+    "eng": "sun",
+    "rus": ["солнце"],
+    "difficulty": 1
+  },
+  {
+    "eng": "king",
+    "rus": ["король"],
+    "difficulty": 1
+  },
+  {
+    "eng": "circle",
+    "rus": ["круг"],
+    "difficulty": 2
+  },
+  {
+    "eng": "tree",
+    "rus": ["дерево"],
+    "difficulty": 1
+  },
+  {
+    "eng": "boat",
+    "rus": ["лодка"],
+    "difficulty": 1
+  },
+  {
+    "eng": "brick",
+    "rus": ["кирпич"],
+    "difficulty": 2
+  },
+  {
+    "eng": "family",
+    "rus": ["семья"],
+    "difficulty": 1
+  },
+  {
+    "eng": "word",
+    "rus": ["слово"],
+    "difficulty": 1
+  },
+  {
+    "eng": "wife",
+    "rus": ["жена"],
+    "difficulty": 1
+  },
+  {
+    "eng": "mother",
+    "rus": ["мать"],
+    "difficulty": 1
+  },
+  {
+    "eng": "father",
+    "rus": ["отец"],
+    "difficulty": 1
+  },
+  {
+    "eng": "son",
+    "rus": ["сын"],
+    "difficulty": 1
+  },
+  {
+    "eng": "bread",
+    "rus": ["хлеб"],
+    "difficulty": 2
+  },
+  {
+    "eng": "pie",
+    "rus": ["пирог"],
+    "difficulty": 1
+  },
+  {
+    "eng": "hour",
+    "rus": ["час"],
+    "difficulty": 1
+  },
+  {
+    "eng": "wealth",
+    "rus": ["благосостояние"],
+    "difficulty": 3
+  },
+  {
+    "eng": "man",
+    "rus": ["мужчина"],
+    "difficulty": 1
+  },
+  {
+    "eng": "woman",
+    "rus": ["женщина"],
+    "difficulty": 1
+  },
+  {
+    "eng": "boy",
+    "rus": ["мальчик"],
+    "difficulty": 1
+  },
+  {
+    "eng": "girl",
+    "rus": ["девочка"],
+    "difficulty": 1
+  },
+  {
+    "eng": "water",
+    "rus": ["вода"],
+    "difficulty": 1
+  },
+  {
+    "eng": "day",
+    "rus": ["день"],
+    "difficulty": 1
+  },
+  {
+    "eng": "night",
+    "rus": ["ночь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "year",
+    "rus": ["год"],
+    "difficulty": 1
+  },
+  {
+    "eng": "week",
+    "rus": ["неделя"],
+    "difficulty": 1
+  },
+  {
+    "eng": "morning",
+    "rus": ["утро"],
+    "difficulty": 1
+  },
+  {
+    "eng": "minute",
+    "rus": ["минута"],
+    "difficulty": 2
+  },
+  {
+    "eng": "house",
+    "rus": ["дом"],
+    "difficulty": 1
+  },
+  {
+    "eng": "gate",
+    "rus": ["ворота"],
+    "difficulty": 2
+  },
+  {
+    "eng": "call",
+    "rus": ["звонок"],
+    "difficulty": 2
+  },
+  {
+    "eng": "book",
+    "rus": ["книга"],
+    "difficulty": 1
+  },
+  {
+    "eng": "child",
+    "rus": ["ребёнок"],
+    "difficulty": 2
+  },
+  {
+    "eng": "hope",
+    "rus": ["надежда"],
+    "difficulty": 1
+  },
+  {
+    "eng": "education",
+    "rus": ["образование"],
+    "difficulty": 3
+  },
+  {
+    "eng": "country",
+    "rus": ["страна"],
+    "difficulty": 3
+  },
+  {
+    "eng": "name",
+    "rus": ["имя"],
+    "difficulty": 1
+  },
+  {
+    "eng": "place",
+    "rus": ["место"],
+    "difficulty": 2
+  },
+  {
+    "eng": "body",
+    "rus": ["тело"],
+    "difficulty": 2
+  },
+  {
+    "eng": "blood",
+    "rus": ["кровь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "door",
+    "rus": ["дверь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "right",
+    "rus": ["право"],
+    "difficulty": 1
+  },
+  {
+    "eng": "light",
+    "rus": ["свет"],
+    "difficulty": 1
+  },
+  {
+    "eng": "money",
+    "rus": ["деньги"],
+    "difficulty": 1
+  },
+  {
+    "eng": "time",
+    "rus": ["время"],
+    "difficulty": 1
+  },
+  {
+    "eng": "world",
+    "rus": ["мир"],
+    "difficulty": 2
+  },
+  {
+    "eng": "camp",
+    "rus": ["лагерь"],
+    "difficulty": 2
+  },
+  {
+    "eng": "life",
+    "rus": ["жизнь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "weather",
+    "rus": ["погода"],
+    "difficulty": 3
+  },
+  {
+    "eng": "sound",
+    "rus": ["звук"],
+    "difficulty": 1
+  },
+  {
+    "eng": "answer",
+    "rus": ["ответ"],
+    "difficulty": 1
+  },
+  {
+    "eng": "apparel",
+    "rus": ["одежда"],
+    "difficulty": 3
+  },
+  {
+    "eng": "badge",
+    "rus": ["значок"],
+    "difficulty": 3
+  },
+  {
+    "eng": "help",
+    "rus": ["помощь"],
+    "difficulty": 1
+  },
+  {
+    "eng": "work",
+    "rus": ["работа"],
+    "difficulty": 1
+  },
+  {
+    "eng": "thought",
+    "rus": ["мысль"],
+    "difficulty": 3
+  },
+  {
+    "eng": "chance",
+    "rus": ["шанс", "возможность"],
+    "difficulty": 2
+  },
+  {
+    "eng": "holiday",
+    "rus": ["отпуск", "каникулы"],
+    "difficulty": 2
+  },
+  {
+    "eng": "birthday",
+    "rus": ["день рождения"],
+    "difficulty": 2
+  },
+  {
+    "eng": "question",
+    "rus": ["вопрос"],
+    "difficulty": 2
+  },
+  {
+    "eng": "idea",
+    "rus": ["идея"],
+    "difficulty": 1
+  },
+  {
+    "eng": "cemetery",
+    "rus": ["кладбище"],
+    "difficulty": 3
+  },
+  {
+    "eng": "school",
+    "rus": ["школа"],
+    "difficulty": 1
+  },
+  {
+    "eng": "basket",
+    "rus": ["корзина"],
+    "difficulty": 2
+  },
+  {
+    "eng": "guy",
+    "rus": ["парень"],
+    "difficulty": 2
+  },
+  {
+    "eng": "problem",
+    "rus": ["проблема"],
+    "difficulty": 1
+  },
+  {
+    "eng": "captain",
+    "rus": ["капитан"],
+    "difficulty": 2
+  },
+  {
+    "eng": "fact",
+    "rus": ["факт"],
+    "difficulty": 1
+  },
+  {
+    "eng": "partner",
+    "rus": ["компаньон"],
+    "difficulty": 3
+  },
+  {
+    "eng": "story",
+    "rus": ["история"],
+    "difficulty": 2
+  },
+  {
+    "eng": "fence",
+    "rus": ["забор"],
+    "difficulty": 2
+  },
+  {
+    "eng": "weakness",
+    "rus": ["слабость"],
+    "difficulty": 3
+  },
+  {
+    "eng": "threat",
+    "rus": ["негативный фактор"],
+    "difficulty": 3
+  },
+  {
+    "eng": "yard",
+    "rus": ["двор"],
+    "difficulty": 2
+  },
+  {
+    "eng": "opportunities",
+    "rus": ["потенциал"],
+    "difficulty": 3
+  },
+  {
+    "eng": "apart",
+    "rus": ["кроме"],
+    "difficulty": 2
+  },
+  {
+    "eng": "fluctuation",
+    "rus": ["колебание", "неустойчивость", "флуктуация"],
+    "difficulty": 3
+  },
+  {
+    "eng": "hospitable",
+    "rus": ["гостеприимный", "открытый"],
+    "difficulty": 3
+  },
+  {
+    "eng": "strength",
+    "rus": ["сила"],
+    "difficulty": 2
+  },
+  {
+    "eng": "avoid",
+    "rus": ["избегать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "certain",
+    "rus": ["точный", "определенный"],
+    "difficulty": 3
+  },
+  {
+    "eng": "observe",
+    "rus": ["наблюдать"],
+    "difficulty": 3
+  },
+  {
+    "eng": "somewhat",
+    "rus": ["в некоторой степени", "немного"],
+    "difficulty": 3
+  },
+  {
+    "eng": "surface",
+    "rus": ["поверхность"],
+    "difficulty": 3
+  },
+  {
+    "eng": "cute",
+    "rus": ["милый", "симпатичный"],
+    "difficulty": 2
+  },
+  {
+    "eng": "curiosity",
+    "rus": ["любознательность"],
+    "difficulty": 3
+  },
+  {
+    "eng": "hide",
+    "rus": ["прятаться"],
+    "difficulty": 2
+  },
+  {
+    "eng": "environment",
+    "rus": ["среда", "окружение"],
+    "difficulty": 3
+  },
+  {
+    "eng": "dumb",
+    "rus": ["тупой"],
+    "difficulty": 3
+  },
+  {
+    "eng": "considering",
+    "rus": ["учитывая"],
+    "difficulty": 3
+  },
+  {
+    "eng": "perplexing",
+    "rus": ["запутанный", "непонятный"],
+    "difficulty": 3
+  },
+  {
+    "eng": "close",
+    "rus": ["закрывать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "again",
+    "rus": ["снова"],
+    "difficulty": 2
+  },
+  {
+    "eng": "ask",
+    "rus": ["спрашивать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "complete",
+    "rus": ["заполнять", "завершать", "заканчивать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "repeat",
+    "rus": ["повторять"],
+    "difficulty": 2
+  },
+  {
+    "eng": "meet",
+    "rus": ["встречаться"],
+    "difficulty": 3
+  },
+  {
+    "eng": "useful",
+    "rus": ["полезный"],
+    "difficulty": 3
+  },
+  {
+    "eng": "answer",
+    "rus": ["отвечать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "correct",
+    "rus": ["исправлять"],
+    "difficulty": 3
+  },
+  {
+    "eng": "meeting",
+    "rus": ["встреча", "совещание", "собрание"],
+    "difficulty": 3
+  },
+  {
+    "eng": "know",
+    "rus": ["знать"],
+    "difficulty": 1
+  },
+  {
+    "eng": "introduce",
+    "rus": ["представлять", "представляться"],
+    "difficulty": 3
+  },
+  {
+    "eng": "around",
+    "rus": ["вокруг"],
+    "difficulty": 3
+  },
+  {
+    "eng": "popular",
+    "rus": ["популярный", "пользующийся успехом"],
+    "difficulty": 3
+  },
+  {
+    "eng": "greeting",
+    "rus": ["приветствие"],
+    "difficulty": 3
+  },
+  {
+    "eng": "greet",
+    "rus": ["приветствовать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "replace",
+    "rus": ["заменять", "возвращать"],
+    "difficulty": 2
+  },
+  {
+    "eng": "listen to",
+    "rus": ["слушать"],
+    "difficulty": 3
+  }
+]
